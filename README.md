@@ -121,7 +121,7 @@ Streamlit UI  ──→  Mode Router
 
 **Harshwardhan Thakur**  
 B.Tech CSE — KIIT University  
-GitHub: [harshhhhhh8168](https://github.com/harshhhhhh8168)
+GitHub: [harshwardhan018thakur](https://github.com/harshhhhhh8168)
 
 ---
 
